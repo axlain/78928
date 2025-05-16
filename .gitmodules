@@ -19,3 +19,6 @@
 [submodule "React"]
 	path = React
 	url = https://github.com/axlain/React.git
+[submodule "mqtt"]
+	path = mqtt
+	url = https://github.com/axlain/mqtt.git
