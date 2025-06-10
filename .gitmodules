@@ -22,3 +22,6 @@
 [submodule "mqtt"]
 	path = mqtt
 	url = https://github.com/axlain/mqtt.git
+[submodule "Ruleta"]
+	path = Ruleta
+	url = https://github.com/axlain/Ruleta.git
